@@ -1,0 +1,105 @@
+{
+ "timestamp": "2023-09-20T09:20:41.737Z",
+ "data": [
+  {
+   "user": "microsoft",
+   "repo": "playwright",
+   "url": "https://github.com/microsoft/playwright"
+  },
+  {
+   "user": "lensterxyz",
+   "repo": "lenster",
+   "url": "https://github.com/lensterxyz/lenster"
+  },
+  {
+   "user": "checkly",
+   "repo": "headless-recorder",
+   "url": "https://github.com/checkly/headless-recorder"
+  },
+  {
+   "user": "microsoft",
+   "repo": "playwright-python",
+   "url": "https://github.com/microsoft/playwright-python"
+  },
+  {
+   "user": "apify",
+   "repo": "crawlee",
+   "url": "https://github.com/apify/crawlee"
+  },
+  {
+   "user": "artilleryio",
+   "repo": "artillery",
+   "url": "https://github.com/artilleryio/artillery"
+  },
+  {
+   "user": "lenstube-xyz",
+   "repo": "lenstube",
+   "url": "https://github.com/lenstube-xyz/lenstube"
+  },
+  {
+   "user": "codeceptjs",
+   "repo": "CodeceptJS",
+   "url": "https://github.com/codeceptjs/CodeceptJS"
+  },
+  {
+   "user": "qawolf",
+   "repo": "qawolf",
+   "url": "https://github.com/qawolf/qawolf"
+  },
+  {
+   "user": "microsoft",
+   "repo": "dotnet-podcasts",
+   "url": "https://github.com/microsoft/dotnet-podcasts"
+  },
+  {
+   "user": "microsoft",
+   "repo": "playwright-dotnet",
+   "url": "https://github.com/microsoft/playwright-dotnet"
+  },
+  {
+   "user": "playwright-community",
+   "repo": "playwright-go",
+   "url": "https://github.com/playwright-community/playwright-go"
+  },
+  {
+   "user": "TheWebScrapingClub",
+   "repo": "webscraping-from-0-to-hero",
+   "url": "https://github.com/TheWebScrapingClub/webscraping-from-0-to-hero"
+  },
+  {
+   "user": "vogler",
+   "repo": "free-games-claimer",
+   "url": "https://github.com/vogler/free-games-claimer"
+  },
+  {
+   "user": "simonw",
+   "repo": "shot-scraper",
+   "url": "https://github.com/simonw/shot-scraper"
+  },
+  {
+   "user": "microsoft",
+   "repo": "playwright-cli",
+   "url": "https://github.com/microsoft/playwright-cli"
+  },
+  {
+   "user": "ocsjs",
+   "repo": "ocsjs",
+   "url": "https://github.com/ocsjs/ocsjs"
+  },
+  {
+   "user": "microsoft",
+   "repo": "playwright-java",
+   "url": "https://github.com/microsoft/playwright-java"
+  },
+  {
+   "user": "microsoft",
+   "repo": "playwright-test",
+   "url": "https://github.com/microsoft/playwright-test"
+  },
+  {
+   "user": "fingerprintjs",
+   "repo": "BotD",
+   "url": "https://github.com/fingerprintjs/BotD"
+  }
+ ]
+}
